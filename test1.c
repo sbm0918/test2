@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	int i = 34;
+	int i = 666;
 	return 0;
 
 }
