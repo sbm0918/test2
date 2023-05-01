@@ -2,7 +2,7 @@
 
 int main(){
 
-	int i = 333;
+	int i = 666;
 	return 0;
 
 }
